@@ -1,6 +1,3 @@
-+In[15]:+
-[source, ipython3]
-----
 def main():
 welcome()
 gender = sex()
